@@ -1,0 +1,28 @@
+1) Create a calculator with basic addition, subtraction, devsion, multiplication functions
+    - Maybe is able to use PEMDAS
+2) Create a tic-tac toe game with 1's and 0's instead of x's and o's
+3) Make a password generator
+    -ask the user how long the password should be
+    -how manny letters, numbers, and symbols they want
+    -password has to be more than 8 characters
+    -maybe have the password in the form of a phrase so the user can remenber it better
+4)Make a conversion tool for physics based on the real life equations
+    -from Kilogram to Neutons
+    -from Acceleration to Kilogram to Net force
+    -calculate the gravational field between 2 objects based on the size ratio, mass, and the distance apart between the 2 objects
+5)Create a list of objects for the computer to draw in front of your eyes
+    -if possible, 10 things for the computer to draw
+    -list the objects in order from 1-10 so when the user types the corrosponding number, the computer draws that cooresponding drawing
+6)Make the card game "WAR"
+    -Try to incorporate graphic design if I can on the cards
+    -Have the computer choose 1 number between 1 and 13 randombly, and the user given a number between 1 and 13 randomly
+        }only have 4 sets of 1 number like in real cards
+    -Whoever has the higher number takes the cards
+    -Once all 52 cards have been gone, end the game and count the cards
+        }any card =<10 is worth 10 points, any card below 10 = 5 points
+        }Ace is always worth 10 points
+    -Add up all the numbers on the opposing sides and who ever has the highest number is the winner
+    
+
+Plan A: Conversion tool for physics
+Plan B: Objects for the computer to draw
